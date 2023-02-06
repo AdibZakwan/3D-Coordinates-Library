@@ -34,19 +34,27 @@
             The three parameter constructor with X, Y and Z variable.
             </summary>
         </member>
-        <member name="M:_3DCoordinatesLibrary.Cartesian.ToCylindrical1">
+        <member name="M:_3DCoordinatesLibrary.Cartesian.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            The three parameter constructor with X, Y and Z variable.
+            </summary>
+            <param name="P1"></param>
+            <param name="P2"></param>
+            <param name="P3"></param>
+        </member>
+        <member name="M:_3DCoordinatesLibrary.Cartesian.ToCylindrical">
             <summary>
             The Cartesian to Cylindrical coordinates conversion formula.
             </summary>
         </member>
-        <member name="M:_3DCoordinatesLibrary.Cartesian.ToSpherical1">
+        <member name="M:_3DCoordinatesLibrary.Cartesian.ToSpherical">
             <summary>
             The Cartesian to Spherical coordinates conversion formula.
             </summary>
         </member>
         <member name="M:_3DCoordinatesLibrary.Cartesian.op_Subtraction(_3DCoordinatesLibrary.Cartesian,_3DCoordinatesLibrary.Cartesian)">
             <summary>
-            
+            Operation for Unit test (distance between 2 point)
             </summary>
             <param name="P1"></param>
             <param name="P2"></param>
@@ -82,12 +90,20 @@
             The three parameter constructor with R, Theta and Z variable.
             </summary>
         </member>
-        <member name="M:_3DCoordinatesLibrary.Cylindrical.ToCartesian2">
+        <member name="M:_3DCoordinatesLibrary.Cylindrical.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            The three parameter constructor with R, Theta and Z variable.
+            </summary>
+            <param name="P1"></param>
+            <param name="P2"></param>
+            <param name="P3"></param>
+        </member>
+        <member name="M:_3DCoordinatesLibrary.Cylindrical.ToCartesian">
             <summary>
             The Cylindrical to Cartesian coordinates conversion formula.
             </summary>
         </member>
-        <member name="M:_3DCoordinatesLibrary.Cylindrical.ToSpherical2">
+        <member name="M:_3DCoordinatesLibrary.Cylindrical.ToSpherical">
             <summary>
             The Cylindrical to Spherical coordinates conversion formula.
             </summary>
@@ -122,12 +138,20 @@
             The three parameter constructor with Rho, Theta and Phi variable.
             </summary>
         </member>
-        <member name="M:_3DCoordinatesLibrary.Spherical.ToCartesian3">
+        <member name="M:_3DCoordinatesLibrary.Spherical.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            The three parameter constructor with Rho, Theta and Phi variable.
+            </summary>
+            <param name="P1"></param>
+            <param name="P2"></param>
+            <param name="P3"></param>
+        </member>
+        <member name="M:_3DCoordinatesLibrary.Spherical.ToCartesian">
             <summary>
             The Spherical to Cartesian coordinates conversion formula.
             </summary>
         </member>
-        <member name="M:_3DCoordinatesLibrary.Spherical.ToCylindrical3">
+        <member name="M:_3DCoordinatesLibrary.Spherical.ToCylindrical">
             <summary>
             The Spherical to Cylindrical coordinates conversion formula.
             </summary>

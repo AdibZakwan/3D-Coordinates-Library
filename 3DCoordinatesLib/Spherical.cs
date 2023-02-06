@@ -75,9 +75,22 @@ namespace _3DCoordinatesLibrary
             }
 
             /// <summary>
+            /// The three parameter constructor with Rho, Theta and Phi variable.
+            /// </summary>
+            /// <param name="P1"></param>
+            /// <param name="P2"></param>
+            /// <param name="P3"></param>
+            public Spherical(double P1, double P2, double P3)
+            {
+               _Rho = P1;
+               _ThetaS = P2;
+               _Phi = P3;
+            }
+
+            /// <summary>
             /// The Spherical to Cartesian coordinates conversion formula.
             /// </summary>
-            public Cartesian ToCartesian3() //type and methodnameB
+            public Cartesian ToCartesian() //type and methodnameB
             {
                 Cartesian temp = new Cartesian();
 
@@ -92,7 +105,7 @@ namespace _3DCoordinatesLibrary
             /// The Spherical to Cylindrical coordinates conversion formula.
             /// </summary>
             //for Cylindrical
-            public Cylindrical ToCylindrical3() //type and methodname 
+            public Cylindrical ToCylindrical() //type and methodname 
 
             {
                 Cylindrical temp = new Cylindrical();

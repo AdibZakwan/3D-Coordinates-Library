@@ -33,3 +33,20 @@ C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\UnitTest3DCoordinates\obj\De
 C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\UnitTest3DCoordinates\obj\Debug\UnitTest3DCoordinates.csproj.CopyComplete
 C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\UnitTest3DCoordinates\obj\Debug\UnitTest3DCoordinates.dll
 C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\UnitTest3DCoordinates\obj\Debug\UnitTest3DCoordinates.pdb
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\UnitTest3DCoordinates.dll
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\UnitTest3DCoordinates.pdb
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\3DCoordinatesLibrary.dll
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\3DCoordinatesLibrary.pdb
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\obj\Debug\UnitTest3DCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\obj\Debug\UnitTest3DCoordinates.csproj.CopyComplete
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\obj\Debug\UnitTest3DCoordinates.dll
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\obj\Debug\UnitTest3DCoordinates.pdb
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\UnitTest3DCoordinates\bin\Debug\3DCoordinatesLibrary.xml

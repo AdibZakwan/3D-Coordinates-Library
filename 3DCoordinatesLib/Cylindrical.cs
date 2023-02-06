@@ -74,10 +74,25 @@ namespace _3DCoordinatesLibrary
                 _Z = 0;
             }
 
+             /// <summary>
+             /// The three parameter constructor with R, Theta and Z variable.
+             /// </summary>
+             /// <param name="P1"></param>
+             /// <param name="P2"></param>
+             /// <param name="P3"></param>
+             public Cylindrical(double P1, double P2, double P3)  //constructer
+             {
+                 _R = P1;
+                 _ThetaC = P2;
+                 _Z = P3;
+             }
+
+
+
             /// <summary>
             /// The Cylindrical to Cartesian coordinates conversion formula.
             /// </summary>
-            public Cartesian ToCartesian2() //type and methodname
+            public Cartesian ToCartesian() //type and methodname
             {
                 Cartesian temp = new Cartesian();
 
@@ -93,7 +108,7 @@ namespace _3DCoordinatesLibrary
             /// The Cylindrical to Spherical coordinates conversion formula.
             /// </summary>
             //for Spehrical
-            public Spherical ToSpherical2() //type and methodname
+            public Spherical ToSpherical() //type and methodname
             {
                 Spherical temp = new Spherical();
 

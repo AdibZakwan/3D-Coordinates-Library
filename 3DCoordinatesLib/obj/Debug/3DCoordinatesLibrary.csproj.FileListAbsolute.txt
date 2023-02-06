@@ -32,3 +32,9 @@ C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\obj\Debug\3DCoordinatesLibra
 C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.csproj.CoreCompileInputs.cache
 C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.dll
 C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.pdb
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\bin\Debug\3DCoordinatesLibrary.xml
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\bin\Debug\3DCoordinatesLibrary.dll
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\bin\Debug\3DCoordinatesLibrary.pdb
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.dll
+C:\Users\Hp\Desktop\3D-Coordinates-Library\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.pdb

@@ -74,10 +74,23 @@ namespace _3DCoordinatesLibrary
             }
 
             /// <summary>
+            /// The three parameter constructor with X, Y and Z variable.
+            /// </summary>
+            /// <param name="P1"></param>
+            /// <param name="P2"></param>
+            /// <param name="P3"></param>
+            public Cartesian(double P1, double P2, double P3)
+            {
+                _X = P1;
+                _Y = P2;
+                _Z = P3;
+            }
+
+            /// <summary>
             /// The Cartesian to Cylindrical coordinates conversion formula.
             /// </summary>
             //for Cylindrical
-            public Cylindrical ToCylindrical1() //type and methodname 
+            public Cylindrical ToCylindrical() //type and methodname 
 
             {
                 Cylindrical temp = new Cylindrical();
@@ -93,7 +106,7 @@ namespace _3DCoordinatesLibrary
             /// The Cartesian to Spherical coordinates conversion formula.
             /// </summary>
             //for Spehrical
-            public Spherical ToSpherical1() //type class and method name
+            public Spherical ToSpherical() //type class and method name
             {
                 Spherical temp = new Spherical();
 
@@ -105,23 +118,23 @@ namespace _3DCoordinatesLibrary
 
             }
 
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="P1"></param>
-        /// <param name="P2"></param>
-        /// <returns></returns>
-        static public double operator -(Cartesian P1, Cartesian P2)
-        {
-            double temp;
-            double dx = P1._X - P2._X;
-            double dy = P1._Y - P2._Y; 
-            double dz = P1._Z - P2._Z;
+            /// <summary>
+            /// Operation for Unit test (distance between 2 point)
+            /// </summary>
+            /// <param name="P1"></param>
+            /// <param name="P2"></param>
+            /// <returns></returns>
+            static public double operator -(Cartesian P1, Cartesian P2)
+            {
+               double temp;
+               double dx = P1._X - P2._X;
+               double dy = P1._Y - P2._Y; 
+               double dz = P1._Z - P2._Z;
 
-            temp = Math.Sqrt(dx*dx + dy*dy + dz*dz);
+               temp = Math.Sqrt(dx*dx + dy*dy + dz*dz);
 
-            return temp;
-        }
+              return temp;
+            }
 
 
     }
